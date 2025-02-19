@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rost04ek
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on GameDev Companys
 - 📫 How to reach me rostikkozacok@gmail.com
 - 😄 Pronouns: ...
